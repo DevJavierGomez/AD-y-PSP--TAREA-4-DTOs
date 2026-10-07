@@ -15,7 +15,7 @@ public class Libro {
     private String titulo;
     private String isbn;
     private Integer anioPublicacion;
-    private Integer numeroPginas;
+    private Integer numeroPaginas;
     private Autor autor;
 
 }
